@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+![LinkedinImage](https://media-exp1.licdn.com/dms/image/C4D03AQHH86mrurLsrg/profile-displayphoto-shrink_100_100/0/1578163427511?e=1628121600&v=beta&t=1y4J34Yk7IwOdQjk5ht2ygydMBx2nR4b_Tz9h6la29o) 
 
-You can use the [editor on GitHub](https://github.com/julzG/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hello 👋🏽
+*Je suis actuellement en quête d’une reconversion professionnelle en adéquation avec mon experience et mes compétences*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [GitHub](http://github.com/julzg)  [LinkedIn](http://linkedin.com/in/juliagandit)
 
-### Markdown
+## 📚 Formation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Concepteur/developpeur d’applications web @ **Le Wagon** (2019)
 
-```markdown
-Syntax highlighted code block
+Business administration (equivalent licence) @ **Unisa** (2005-2009)
 
-# Header 1
-## Header 2
-### Header 3
+National senior certificate with University exemption (equivalent bac) @ **Intec** (2004)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 👩🏽‍💻 Expériences
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Assistante Achat** @ Spartoo (2013 - 2018)
+Secteur: vente a distance 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Gestion d’un portefeuille de 100 marques. 
+- Participation au lancement d’un nouvel entrepôt. 
+- Suivi réception / relance. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julzG/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Conseillere clientele** @ Rubbersole et Spartoo UK (2012 – 2013)
+- Accompagnement lors des questions avant-vente et résolutions des éventuelles 
+  difficultés après-vente. 
+- Traduction des informations du site français en anglais,blog 
+  publicitaire et suivi des opérations commerciales. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Analytse de donnees** @ Forwardslash (2011 – 2012)
+- Saisie et redistribution des données administratives en fonction de leur 
+  mode d’acquisition (SEO, affilié, campagne publicitaire, emails...). 
+
+
+**Assistante galerie** @ Rainbow (2008 – 2011)
+- Gestion des activités courantes de la galerie, préparation 
+  des expositions (candidature, dossiers techniques, devis...), aide à la vente, 
+  mise à jour des tarifs et des dossiers d'artistes, préparation des dossiers de presse,
+  communiquée, newsletters, aide à l'organisation logistique (transport, gestion du stock). 
+
+  
+**Conseillere en vente** @ Sterns (2006 – 2007)
+- Vente de produits généralement onéreux. 
+- Meilleures ventes pendant 6 mois (env. 200,000€). 
+- Encaissements et responsabilité temporaire du magasin. 
+
+
+## 💬 Langages
+- Anglais
+- Afrikaans
+- Français

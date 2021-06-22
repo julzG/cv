@@ -16,6 +16,16 @@ National senior certificate with University exemption (equivalent bac) @ **Intec
 
 ## 👩🏽‍💻 Expériences
 
+**Freelance Projets** (2019 - present)
+Secteur: Conception et développement de sites Web
+
+- Site en Ruby on Rails avec Active Admin basé sur Heroku  
+- Template en PHP pour restaurant
+ 🍽   [LekkerRestaurant](https://lekkerdemo.herokuapp.com/)
+- Template en PHP pour ecrivan
+ 📚   [AuthorSite](https://sophiacardine.herokuapp.com)
+ 
+
 
 **Assistante Achat** @ Spartoo (2013 - 2018)
 Secteur: vente a distance 

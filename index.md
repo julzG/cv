@@ -1,5 +1,3 @@
-![LinkedinImage](https://media-exp1.licdn.com/dms/image/C4D03AQHH86mrurLsrg/profile-displayphoto-shrink_100_100/0/1578163427511?e=1628121600&v=beta&t=1y4J34Yk7IwOdQjk5ht2ygydMBx2nR4b_Tz9h6la29o) 
-
 # Hello 👋🏽
 *Je suis actuellement en quête d’une reconversion professionnelle en adéquation avec mon experience et mes compétences*
 
